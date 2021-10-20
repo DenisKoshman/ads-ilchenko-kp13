@@ -1,0 +1,7 @@
+C:\Users\ilche\source\repos\АСД_2_Задача\АСД_2_Задача\bin\Debug\АСД_2_Задача.exe.config
+C:\Users\ilche\source\repos\АСД_2_Задача\АСД_2_Задача\bin\Debug\АСД_2_Задача.exe
+C:\Users\ilche\source\repos\АСД_2_Задача\АСД_2_Задача\bin\Debug\АСД_2_Задача.pdb
+C:\Users\ilche\source\repos\АСД_2_Задача\АСД_2_Задача\obj\Debug\АСД_2_Задача.csproj.AssemblyReference.cache
+C:\Users\ilche\source\repos\АСД_2_Задача\АСД_2_Задача\obj\Debug\АСД_2_Задача.csproj.CoreCompileInputs.cache
+C:\Users\ilche\source\repos\АСД_2_Задача\АСД_2_Задача\obj\Debug\АСД_2_Задача.exe
+C:\Users\ilche\source\repos\АСД_2_Задача\АСД_2_Задача\obj\Debug\АСД_2_Задача.pdb
