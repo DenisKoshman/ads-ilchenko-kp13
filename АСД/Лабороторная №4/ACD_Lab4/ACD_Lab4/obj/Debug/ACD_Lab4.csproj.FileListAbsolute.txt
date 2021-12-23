@@ -1,0 +1,7 @@
+C:\Users\ilche\source\repos\ACD_Lab4\ACD_Lab4\bin\Debug\ACD_Lab4.exe.config
+C:\Users\ilche\source\repos\ACD_Lab4\ACD_Lab4\bin\Debug\ACD_Lab4.exe
+C:\Users\ilche\source\repos\ACD_Lab4\ACD_Lab4\bin\Debug\ACD_Lab4.pdb
+C:\Users\ilche\source\repos\ACD_Lab4\ACD_Lab4\obj\Debug\ACD_Lab4.csproj.AssemblyReference.cache
+C:\Users\ilche\source\repos\ACD_Lab4\ACD_Lab4\obj\Debug\ACD_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\ilche\source\repos\ACD_Lab4\ACD_Lab4\obj\Debug\ACD_Lab4.exe
+C:\Users\ilche\source\repos\ACD_Lab4\ACD_Lab4\obj\Debug\ACD_Lab4.pdb
