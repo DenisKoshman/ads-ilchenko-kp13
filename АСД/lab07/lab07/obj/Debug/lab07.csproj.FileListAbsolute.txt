@@ -1,0 +1,8 @@
+C:\ForWork\АСД\Лабы\Лабороторна №7\lab07\lab07\bin\Debug\lab07.exe.config
+C:\ForWork\АСД\Лабы\Лабороторна №7\lab07\lab07\bin\Debug\lab07.exe
+C:\ForWork\АСД\Лабы\Лабороторна №7\lab07\lab07\bin\Debug\lab07.pdb
+C:\ForWork\АСД\Лабы\Лабороторна №7\lab07\lab07\obj\Debug\lab07.csproj.AssemblyReference.cache
+C:\ForWork\АСД\Лабы\Лабороторна №7\lab07\lab07\obj\Debug\lab07.csproj.SuggestedBindingRedirects.cache
+C:\ForWork\АСД\Лабы\Лабороторна №7\lab07\lab07\obj\Debug\lab07.csproj.CoreCompileInputs.cache
+C:\ForWork\АСД\Лабы\Лабороторна №7\lab07\lab07\obj\Debug\lab07.exe
+C:\ForWork\АСД\Лабы\Лабороторна №7\lab07\lab07\obj\Debug\lab07.pdb
